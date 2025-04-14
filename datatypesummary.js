@@ -19,6 +19,5 @@ console.log(typeof isLoggedvalue)
     name:"tahreem";
     age:22;
 }
-//const MyFunction=function(){
-    console.log("hello world");
-}
+const MyFunction=function(){
+    console.log("hello world");}
