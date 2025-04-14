@@ -23,9 +23,19 @@
   //  console.log("hello world");}
     //+++++++++++++++++++++++++++++++++++++++++++++
     //stack(permitive),Heap(non-permitive)
-    let myyoutubename="tahreemtajalli"
-    let anothername="myyoutubename"
-    anothername="chaiorcode"
-    console.log("myyoutubename");
-    console.log("anothername");
-    
+    let myYoutubename="tahreemtajalli"
+    let anotherName=myYoutubename
+  anotherName="chaiaurcode"
+    console.log(anotherName);
+    console.log(myYoutubename);
+    let userone={
+        email:"tahreemtajlli@gmail.com"
+    }
+    let usertwo= userone
+    usertwo.email="tahreem rana"
+    //console.log(userone.email)
+    //console.log(usertwo.email)
+    //string datatype
+    const fristname="tahreem"
+    const repoCount=52
+    console.log(`MY NAME IS ${fristname} and repoCount is ${repoCount}`);
