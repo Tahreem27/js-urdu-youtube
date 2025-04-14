@@ -10,12 +10,15 @@ const id= Symbol("123")
 const bignumber= 1234567n
 
 
-
+console.log(typeof isLoggedvalue)
 //Reference(Non-Permitive)
 
 //array,object,function
-const hero[ali,ahmad]
+//const hero=[ali,ahmad]
 {
     name:"tahreem";
     age:22;
+}
+//const MyFunction=function(){
+    console.log("hello world");
 }
