@@ -11,3 +11,9 @@ Myarry.unshift(9)
 Myarry .shift()
 console.log(Myarry);
 console.log(myarry.includes(9));
+console.log(myarry.indexOf(9));
+  const newarry = Myarry.join;
+  console.log(Myarry);
+  console.log(typeof newarry);
+  
+  
